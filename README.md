@@ -1,22 +1,22 @@
 # 💫About Me :
 {
 
-	namespace HCT
+ 	namespace HCT
 	{
-    	   	class HcThanhh03
-    	   	{
-        	static void Main(string[] args)
+    		class HcThanhh03
+    		{
+        		static void Main(string[] args)
         		{
-           	   	string Name = "Hoàng Chí Thanh";
-            	   	string Age = "2003";
-            	   	string Gender = "Male";
-		   	string Email = "hoangchithanh.it@gmail.com";
-            	   	string Address = "Bình Phước, Việt Nam";
-            	   	string University = "Trường Cao đẳng Kinh tế TPHCM - HCE";
-            	   	string Skills = "C++, C#,PHP, HTML, CSS, JavaScript";
-            	   	string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!!!";
+            			string Name = "Hoàng Chí Thanh";
+            			string Age = "2003";
+            			string Gender = "Male";
+				string Email = "hoangchithanh.it@gmail.com";
+            			string Address = "Bình Phước, Việt Nam";
+            			string University = "Trường Cao đẳng Kinh tế TPHCM - HCE";
+            			string Skills = "C++, C#,PHP, HTML, CSS, JavaScript";
+            			string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!!!";
         		}
-    	   	}
+   		 }
 	}
 }
 
