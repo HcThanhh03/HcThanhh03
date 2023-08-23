@@ -1,15 +1,13 @@
 # 💫About Me :
 namespace HCT
-
 {
+
     class HcThanhh03
     {
         static void Main(string[] args)
         {
             string Name = "Hoàng Chí Thanh";
-            
             string Age = "2003";
-            
             string Gender = "Male";
 	string Email = "hoangchithanh.it@gmail.com";
             string Address = "Bình Phước, Việt Nam";
