@@ -8,7 +8,7 @@ namespace HCT
             string Name = "Hoàng Chí Thanh";
             string Age = "2003";
             string Gender = "Male";
-	          string Email = "hoangchithanh.it@gmail.com";
+	string Email = "hoangchithanh.it@gmail.com";
             string Address = "Bình Phước, Việt Nam";
             string University = "Trường Cao đẳng Kinh tế TPHCM - HCE";
             string Skills = "C++, C#,PHP, HTML, CSS, JavaScript";
