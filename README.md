@@ -5,6 +5,7 @@ namespace HCT
     {
         static void Main(string[] args)
         {
+	
             string Name = "Hoàng Chí Thanh";
             string Age = "2003";
             string Gender = "Male";
