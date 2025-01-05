@@ -12,7 +12,7 @@
             			string Gender = "Male";
 					string Email = "hoangchithanh.it@gmail.com";
             			string Address = "Bình Phước, Việt Nam";
-            			string University = "Trường Cao đẳng Kinh tế TPHCM - HCE";
+            			string University = "Trường Đại Học Công Nghiệp TPHCM";
             			string Skills = "C++, C#,PHP, HTML, CSS, JavaScript";
             			string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!!!";
         		}
